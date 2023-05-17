@@ -1,48 +1,61 @@
-Inventory Platform
+# Inventory Platform 🏢
 
-Getting Started
-Prerequisites
-What you need to have installed in order to run this application.
+## Getting Started 🕛
 
-Built With
-Laravel - The PHP framework used
-MySQL - The database management system used
+##Prerequisites
+    
+    Composer
+    
+    Larvel
+    
+    SQLite / MySQL / PostgreSQL
 
-Installing
-How to install and run the application.
+## Built With 🎖️
 
-cd <repository-name>
-composer install
+    Laravel - The PHP framework used
 
-php artisan key:generate
+    MySQL - The database management system used
 
-php artisan migrate --seed
+## Installing 🏔️
 
-php artisan serve
+    composer install
 
-Usage
-How to use the application.
+    php artisan key:generate
 
-Running the tests
-How to run the tests for this application.
+    php artisan migrate --seed
 
-Built With
-Laravel - The PHP framework used
-MySQL - The database management system used
-Contributing
-If you would like to contribute to this project, please reach out to the project owner.
+    php artisan serve
 
-Authors
+## Usage
 
-License
-This project is licensed under the MIT License.
+    (https://github.com/fredriick/inventory-management/blob/main/Requests.png)
 
-Acknowledgments
-Any credits or inspiration for this project.
+## Running the tests
 
-Future Work
-Any ideas for future development of the project.
+    php artisan test
+    
+## Built With 🪄🪄🪄
 
-Database Seed
-To create a default user, run the following command:
+    Laravel - The PHP framework used
 
+    MySQL - The database management system used
+
+## Contributing
+    
+    If you would like to contribute to this project, please reach out to the project owner.
+
+## Authors ❤️‍🔥
+    
+    Fred 
+    
+## License 🚨
+    
+    This project is licensed under the MIT License.
+
+## Acknowledgments 🗺️
+
+    Any credits or inspiration for this project.
+
+## Future Work 🛸🛸🛸
+    
+    Any ideas for future development of the project.
