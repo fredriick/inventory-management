@@ -1,4 +1,4 @@
-FROM php:8.3.0beta1-cli-bookworm
+FROM php:8.3.3RC1-cli-bookworm
 
 RUN apt-get update && \
     apt-get install -y \
